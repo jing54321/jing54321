@@ -3,7 +3,7 @@
 ---
 #### Welcome to my page!
 I'm Kyungwon Lee who is studying software development in Canada.
-I was previously an architectural engineer in Korea🇰🇷, but now I'm trying to become a Fullstack developer.
+I was previously an architectural engineer in Korea :🇰🇷:, but now I'm trying to become a Fullstack developer.
 
 ### My tech stack  :pushpin:
 ----------
