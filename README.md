@@ -1,7 +1,7 @@
 
 
 ### Hi, I'm Kyungwon Lee who is styding software development.
-#### I was previously an architectural engineer, but now I'm trying to become a front-end developer.
+#### - I was previously an architectural engineer, but now I'm trying to become a front-end developer.
 
 ### My tech stack 
 ----------
