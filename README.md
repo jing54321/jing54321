@@ -2,9 +2,9 @@
 ###   :sunglasses: Hey! Nice to see you
 ---
 #### Welcome to my page!
-I'm Kyungwon Lee who is studying software development in :canada:
+I'm Kyungwon Lee who is studying software development in Canada
 I was previously an architectural engineer in Korea, but now I'm trying to become a Fullstack developer.
-:kr:
+
 ### My tech stack  :pushpin:
 ----------
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
