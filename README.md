@@ -1,7 +1,9 @@
 
 
-###  :smile: Hi, I'm Kyungwon Lee who is studying software development.
-#### - I was previously an architectural engineer, but now I'm trying to become a front-end developer.
+###  :smile: Hey! Nice to see you
+#### Welcome to my page
+#### I'm Kyungwon Lee who is studying software development in Canada.
+#### I was previously an architectural engineer in Korea, but now I'm trying to become a Fullstack developer.
 
 ### My tech stack 
 ----------
