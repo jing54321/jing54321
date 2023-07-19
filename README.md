@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Kyungwon Lee who is studying software development.
+###  :smile: Hi, I'm Kyungwon Lee who is studying software development.
 #### - I was previously an architectural engineer, but now I'm trying to become a front-end developer.
 
 ### My tech stack 
